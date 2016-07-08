@@ -1,4 +1,4 @@
-# Repositório SGE
+# Repositório SGE | Sistema Indústria
 
 Repositório criado com intuito de compartilhar, informações, materiais, relatórios, fórmulas visuais, layouts de saída e consultas SQL do SGE, implantado nos Departamentos Regionais do SENAI e SESI.
 
